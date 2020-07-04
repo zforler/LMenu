@@ -1,0 +1,11 @@
+#LMenu{
+    list-style: none;
+    padding: 0;
+}
+.L-item{
+    display: none;
+}
+.L-item[data-level='1']{
+    background-color: #ccc;
+    display: block;
+}
